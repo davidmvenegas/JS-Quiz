@@ -95,7 +95,7 @@ button:active {
     transform: translateX(-50%);
     font-size: 3rem;
     width: fit-content;
-    color: rgba(34, 34, 34, 0.75);
+    color: rgba(34, 34, 34, 0.85);
     text-align: center;
 }
 #footer {
